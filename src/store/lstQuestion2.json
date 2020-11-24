@@ -1,0 +1,8 @@
+{
+    "qst_id" : 2,
+    "question" : "Êtes-vous propriétaire du vélo ?",
+    "type" : "radioButton",
+    "show" : false,
+    "categorie" : "vosExperiencesMobilites"
+},
+
